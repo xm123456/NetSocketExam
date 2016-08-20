@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<script type="text/javascript">location.href="http://192.168.211.101/portal?userip=10.211.121.11&userurl=http://hq.sinajs.cn/list=sz300170"
+		</script>
+	</head>
+	<body>
+		Authentication is required. Click
+		<a
+			href="http://192.168.211.101/portal?userip=10.211.121.11&userurl=http://hq.sinajs.cn/list=sz300170">here</a>
+		to open the authentication page.
+	</body>
+</html>
